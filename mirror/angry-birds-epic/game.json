@@ -1,0 +1,105 @@
+{
+  "slug": "angry-birds-epic",
+  "title": "Angry Birds Epic",
+  "type": "HTML",
+  "developer": "Rovio Entertainment",
+  "description": "The pigs are at it again, and only a handful of heroic birds can stop them. Forge weapons, brew potions, and battle through a humorous role-playing adventure with turn-based combat as you journey across Piggy Island to rescue the eggs.",
+  "tags": [
+    "RPG",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Cartoon",
+    "Casual"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "18e7eb21-93df-4fd1-b272-7b07e965ec76",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/18e7eb21-93df-4fd1-b272-7b07e965ec76/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/18e7eb21-93df-4fd1-b272-7b07e965ec76/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/18e7eb21-93df-4fd1-b272-7b07e965ec76/1/index.html",
+  "status": "done",
+  "sizeBytes": 185951396,
+  "assetCount": 54,
+  "known404": [
+    "https://playobsidian.com/EpicWeb.loader.js",
+    "https://playobsidian.com/EpicWeb.data",
+    "https://playobsidian.com/EpicWeb.framework.js",
+    "https://playobsidian.com/cdn/assets/html/18e7eb21-93df-4fd1-b272-7b07e965ec76/1/EpicWeb.data",
+    "https://playobsidian.com/EpicWeb.wasm",
+    "https://playobsidian.com/cdn/assets/html/18e7eb21-93df-4fd1-b272-7b07e965ec76/1/EpicWeb.wasm",
+    "https://playobsidian.com/cdn/assets/html/18e7eb21-93df-4fd1-b272-7b07e965ec76/1/.br",
+    "https://playobsidian.com/cdn/assets/html/18e7eb21-93df-4fd1-b272-7b07e965ec76/1/.wasm",
+    "https://playobsidian.com/cdn/assets/html/18e7eb21-93df-4fd1-b272-7b07e965ec76/1/Build/build.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/EpicWeb.loader.js",
+      "error": "HTTP 404 for https://playobsidian.com/EpicWeb.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/EpicWeb.data",
+      "error": "HTTP 404 for https://playobsidian.com/EpicWeb.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/EpicWeb.framework.js",
+      "error": "HTTP 404 for https://playobsidian.com/EpicWeb.framework.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/18e7eb21-93df-4fd1-b272-7b07e965ec76/1/EpicWeb.data",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/18e7eb21-93df-4fd1-b272-7b07e965ec76/1/EpicWeb.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/EpicWeb.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/EpicWeb.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/18e7eb21-93df-4fd1-b272-7b07e965ec76/1/EpicWeb.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/18e7eb21-93df-4fd1-b272-7b07e965ec76/1/EpicWeb.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/18e7eb21-93df-4fd1-b272-7b07e965ec76/1/.br",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/18e7eb21-93df-4fd1-b272-7b07e965ec76/1/.br",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/18e7eb21-93df-4fd1-b272-7b07e965ec76/1/.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/18e7eb21-93df-4fd1-b272-7b07e965ec76/1/.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/18e7eb21-93df-4fd1-b272-7b07e965ec76/1/Build/build.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/18e7eb21-93df-4fd1-b272-7b07e965ec76/1/Build/build.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:17:38.206Z",
+  "verifiedAt": "2026-11-16T12:55:22.272Z",
+  "verification": {
+    "external": 2,
+    "blocking": 0,
+    "ignoredExternal": 2,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Unity Web Player | Epic",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9955,
+    "rendered": true
+  }
+}

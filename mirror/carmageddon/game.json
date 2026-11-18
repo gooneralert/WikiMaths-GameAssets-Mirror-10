@@ -1,0 +1,1476 @@
+{
+  "slug": "carmageddon",
+  "title": "Carmageddon",
+  "type": "HTML",
+  "developer": "Stainless Games Ltd",
+  "description": "Carmageddon is the original freeform driving sensation, where pedestrians (and cows!) equal points, and your opponents are a bunch of crazies in a twisted mix of automotive killing machines. The game features anarchic drive-wherever-you-like gameplay and over-the-top surreal comedy violence. It's the racing game where racing is for wimps. Now the same Mac & PC classic that was BANNED AROUND THE WORLD is back! Carmageddon features real-world environments that have been turned into killing fields, where the locals stay out on the streets at their peril. As well as using your car as a weapon, every level is sprinkled generously with power-ups that have a vast variety of mad effects, adding a whole extra level of craziness to the proceedings. In every event you have the option to \"play it your way\"â¦ Waste all your opponents, kill every pedestrian, or (perish the thought) complete all the laps. Oh and watch out â the cops in their super-tough armoured patrol vehicles are lurking, and if they catch you being bad they'll be down on you like several tons of cold pork. \"Ladies and gentlemen, start your engines! Members of the public, you have ONE minute to reach minimum safe distance!\"",
+  "tags": [
+    "Racing",
+    "Driving",
+    "Action",
+    "Comedy",
+    "Violent",
+    "Open World"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "dc1dbce2-b901-40a0-80c9-56fad8b40d6d",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/dc1dbce2-b901-40a0-80c9-56fad8b40d6d/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/dc1dbce2-b901-40a0-80c9-56fad8b40d6d/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/dc1dbce2-b901-40a0-80c9-56fad8b40d6d/1/index.html",
+  "status": "done",
+  "sizeBytes": 202681139,
+  "assetCount": 10,
+  "known404": [
+    "https://playobsidian.com/carma/DATA/32X20X8/CARS/ANNBLAK.TXT",
+    "https://playobsidian.com/carma/CREDITS.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/CARS/ANNRED.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/CARS/ANNWHT.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/CARS/ANNBLUE.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/CARS/BLKEAGLE.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/CARS/ANNGREE.TXT",
+    "https://playobsidian.com/cdn/assets/html/dc1dbce2-b901-40a0-80c9-56fad8b40d6d/1/datafile_carmaweb.data",
+    "https://playobsidian.com/carma/DATA/32X20X8/CARS/ANNIECAR.TXT",
+    "https://playobsidian.com/carma/ABUSE.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/CARS/EAGBLAK.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/CARS/DUMP.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/CARS/EAGBLUE.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/CARS/BIGAPC.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/CARS/EAGGREE.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/CARS/IVAN.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/CARS/EAGWHIE.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/CARS/SCREWIE.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/CARS/OTIS.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/CARS/PITBULL.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/CARS/BUSTER.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/FONTS/BLUEHEAD.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/FONTS/FONT7.FNT",
+    "https://playobsidian.com/carma/DATA/32X20X8/FONTS/GREENHED.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/FONTS/GRNDK.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/FONTS/GRNLIT.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/FONTS/BIGFONT.FNT",
+    "https://playobsidian.com/carma/DATA/32X20X8/FONTS/GRYLIT.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/CARS/EAGYELE.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/CARS/TASSLE.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/FONTS/MEDIUMHD.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/FONTS/HEADUP.FNT",
+    "https://playobsidian.com/carma/DATA/32X20X8/FONTS/NEWBIGGR.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/FONTS/NEWBLUE.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/FONTS/NEWGREEN.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/CARS/VLAD.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/FONTS/ORANGHED.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/FONTS/TIMER.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/FONTS/TYPEABLE.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/PRATCAM/ANNIE/DEBUG.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/FONTS/GRYDK.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/HEADUP.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/FONTS/NEWHITE.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/FONTS/NEWRED.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/PRATCAM/ANNIE/PRATCAM.TXT",
+    "https://playobsidian.com/carma/DATA/32X20X8/PRATCAM/FRANK/PRATCAM.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/CARS/ANNBLUE.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/CARS/ANNIECAR.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/CARS/ANNBLAK.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/CARS/BLKEAGLE.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/CARS/BIGAPC.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/CARS/BUSTER.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/CARS/ANNWHT.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/CARS/EAGGREE.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/CARS/EAGBLUE.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/CARS/EAGBLAK.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/CARS/EAGWHIE.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/CARS/IVAN.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/CARS/EAGYELE.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/CARS/ANNGREE.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/CARS/OTIS.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/CARS/SCREWIE.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/CARS/ANNRED.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/CARS/DUMP.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/CARS/TASSLE.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/FONTS/BIGFONT.FNT",
+    "https://playobsidian.com/carma/DATA/64X48X8/FONTS/BLUEHEAD.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/CARS/VLAD.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/FONTS/GRNLIT.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/FONTS/GRYDK.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/FONTS/GRNDK.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/FONTS/HEADUP.FNT",
+    "https://playobsidian.com/carma/DATA/64X48X8/FONTS/MEDIUMHD.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/FONTS/NEWBIGGR.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/FONTS/NEWBLUE.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/CARS/PITBULL.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/FONTS/NEWGREEN.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/FONTS/NEWHITE.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/FONTS/FONT7.FNT",
+    "https://playobsidian.com/carma/DATA/64X48X8/FONTS/GRYLIT.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/FONTS/TIMER.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/FONTS/NEWRED.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/FONTS/ORANGHED.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/FONTS/TYPEABLE.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/PRATCAM/ANNIE/DEBUG.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/PRATCAM/FRANK/PRATCAM.TXT",
+    "https://playobsidian.com/carma/DATA/ACCESSRY.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/HEADUP.TXT",
+    "https://playobsidian.com/carma/DATA/ANIM/STELLA.TXT",
+    "https://playobsidian.com/carma/DATA/ANIM/DEBUG.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/AGENTO.TXT",
+    "https://playobsidian.com/carma/DATA/BORING.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/ANNBLAK.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/ANNGREE.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/ANNBLUE.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/ANNIECAR.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/FONTS/GREENHED.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/BIGAPC.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/ANNWHT.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/ANNRED.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/BLKEAGLE.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/APC.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/BRATT.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/EAGBLUE.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/EAGBLAK.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/DUMP.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/EAGWHIE.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/EAGGREE.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/EAGYELE.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/EATER.TXT",
+    "https://playobsidian.com/carma/DATA/64X48X8/PRATCAM/ANNIE/PRATCAM.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/FIRE.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/HAMMER.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/GRIMM.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/ED.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/IVAN.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/KUTTER.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/HARRY.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/MERC.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/OK.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/OTIS.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/PITBULL.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/BUSTER.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/STELLA.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/SCREWIE.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/SHIRLEY.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/STIG.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/VALHELLA.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/TASSLE.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/TARTLET.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/FAUST.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/VLAD.TXT",
+    "https://playobsidian.com/carma/DATA/DARES.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/ZGRIMM.TXT",
+    "https://playobsidian.com/carma/DATA/DEMOFILE.TXT",
+    "https://playobsidian.com/carma/DATA/DKEYMAP1.TXT",
+    "https://playobsidian.com/carma/DATA/DKEYMAP0.TXT",
+    "https://playobsidian.com/carma/DATA/DKEYMAP3.TXT",
+    "https://playobsidian.com/carma/DATA/DPOWERUP.TXT",
+    "https://playobsidian.com/carma/DATA/KEYMAP_0.TXT",
+    "https://playobsidian.com/carma/DATA/GENERAL.TXT",
+    "https://playobsidian.com/carma/DATA/KEYMAP_1.TXT",
+    "https://playobsidian.com/carma/DATA/KEYMAP_3.TXT",
+    "https://playobsidian.com/carma/DATA/KEYNAMES.TXT",
+    "https://playobsidian.com/carma/DATA/KEYMAP_2.TXT",
+    "https://playobsidian.com/carma/DATA/CARS/RAZOR.TXT",
+    "https://playobsidian.com/carma/DATA/NETRACES.TXT",
+    "https://playobsidian.com/carma/DATA/NETDEFLT.TXT",
+    "https://playobsidian.com/carma/DATA/NONCARS/BENCH.TXT",
+    "https://playobsidian.com/carma/DATA/NONCARS/BARRIER.TXT",
+    "https://playobsidian.com/carma/DATA/NONCARS/CONE.TXT",
+    "https://playobsidian.com/carma/DATA/NONCARS/FTREE.TXT",
+    "https://playobsidian.com/carma/DATA/NONCARS/GREENCAR.TXT",
+    "https://playobsidian.com/carma/DATA/NONCARS/ICART.TXT",
+    "https://playobsidian.com/carma/DATA/NONCARS/PALM1.TXT",
+    "https://playobsidian.com/carma/DATA/NONCARS/LITE.TXT",
+    "https://playobsidian.com/carma/DATA/NONCARS/PHONE.TXT",
+    "https://playobsidian.com/carma/DATA/NONCARS/PEDCROSS.TXT",
+    "https://playobsidian.com/carma/DATA/NONCARS/PALM2.TXT",
+    "https://playobsidian.com/carma/DATA/KEYMAP.TXT",
+    "https://playobsidian.com/carma/DATA/DKEYMAP2.TXT",
+    "https://playobsidian.com/carma/DATA/NONCARS/TRAFF.TXT",
+    "https://playobsidian.com/carma/DATA/NONCARS/STREE1.TXT",
+    "https://playobsidian.com/carma/DATA/NONCARS/STREE2.TXT",
+    "https://playobsidian.com/carma/DATA/NONCARS/GASPUMP.TXT",
+    "https://playobsidian.com/carma/DATA/PARTSHOP.TXT",
+    "https://playobsidian.com/carma/DATA/NONCARS/WTOWER.TXT",
+    "https://playobsidian.com/carma/DATA/NONCARS/TREE.TXT",
+    "https://playobsidian.com/carma/DATA/OPTIONS.TXT",
+    "https://playobsidian.com/carma/DATA/NONCARS/WRECK.TXT",
+    "https://playobsidian.com/carma/DATA/PEDESTRN.TXT",
+    "https://playobsidian.com/carma/DATA/PEDPATHS.TXT",
+    "https://playobsidian.com/carma/DATA/PEDRACES.TXT",
+    "https://playobsidian.com/carma/DATA/PEDSUBS.TXT",
+    "https://playobsidian.com/carma/DATA/PATHS.TXT",
+    "https://playobsidian.com/carma/DATA/POWERUP.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/CITYA1.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/CITYA3.TXT",
+    "https://playobsidian.com/carma/DATA/RACES.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/CITYA2.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/CITYC1.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/CITYB2.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/CITYC2.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/CITYB1.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/CITYB3.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/COASTA1.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/COASTA3.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/COASTB1.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/CITYC3.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/COASTA2.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/COASTB2.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/COASTC1.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/COASTC2.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/COASTC.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/COASTB3.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/COLICIUM.TXT",
+    "https://playobsidian.com/carma/DATA/OPPONENT.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/COASTC3.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/DEZRACE2.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/DEZRACE1.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/DEZRACE3.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/DEZRACE4.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/ICE.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/ICE3.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/INDUSTA1.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/INDUSTB1.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/INDUSTA2.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/INDUSTA3.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/MINESB2.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/MINESB1.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/INDUSTB3.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/INDUSTB2.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/MINESB3.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/NETCITYA.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/MINESB5.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/DD3.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/NETCITYB.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/NETCOSTA.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/NETCITYC.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/NETDESRT.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/NETCOSTC.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/NETCOSTB.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/NETICE.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/MINESB4.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/ICE2.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/NETINDA.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/NETINDB.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/ZEBRA.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/SUMOBIG.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/VOODOO.TXT",
+    "https://playobsidian.com/carma/DATA/RACES/NETMINES.TXT",
+    "https://playobsidian.com/carma/DATA/SOUND/BEHIND1.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/ACIDBATH.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/AAARGH.WAV",
+    "https://playobsidian.com/carma/DATA/RACES0.TXT",
+    "https://playobsidian.com/carma/DATA/SOUND/ALRIGHT3.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/ALRIGHT4.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/BIGGIBS.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/BIGHIT03.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/BETHURT.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/BIGHIT1.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/BIGHIT02.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/BIGGIBS2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/BOING!.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/BIGHIT4.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/BIGHIT3.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/BIGOW.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/BOYS02.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/BIGHIT2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/BOYS08.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/BUTT.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/BOYS06.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/CLANK!.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/CHKPOINT.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/BUZZER.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/EEEUGH.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/DIESEL.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/DONE.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/CRASH.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/CREDITSD.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/CREDITSU.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/ENGINE1.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/EEUUW3.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/ENGINE3.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/EEUUW.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/ENGINE2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/ENGINE3E.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/EVILLAF2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/ENGINE5.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/ENGINE3W.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/EVILLAF3.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/ESC.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/ENGINE4.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FAA02.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FAARGH5.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FAH.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/EVILLAFF.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FAAH.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FAARGH3.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FGETCHA.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FALRITE2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FALRITE3.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FEMHIT.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FDEAD.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FBETHRT3.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FGRR4.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FGODDAM.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FINALLAP.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FHAHA1.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FGRR7.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FHURT1.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FIVE.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FMESSY.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FLAFF3.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FOHSHIT1.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FOARGH.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FMUTHA.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FOW.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FOUR.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FOW3.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FOW2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FOOH.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FOOH2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FRIGHT01.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FOWHURT2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FSHITHAP.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FPRAY2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FSORRY2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FSORRY3.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FUNANGLE.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FWAYHAY.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FWOOHOO.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FYEAH1.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FSUMVA.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FURGH2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/GETYOU.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/GIGGLE.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/GIRLS01.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/GO!.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/FYEAH2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/GIRLS02.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/GOSIREN.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/HAHAHA.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/HEARTBAT.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/HAHA.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/GRRRRRR1.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/GOODCAR1.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/HEYSTOP.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/HELPME.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/INWAR.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/HITGIBS.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/HEY!.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/HONK.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/KSOUND.TXT",
+    "https://playobsidian.com/carma/DATA/SOUND/METAL5.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/METAL2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/METAL3.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/METAL1.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/METAL4.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/MOODEATH.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/METAL6.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/METAL7.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/MOO.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/OHSHIT.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/OLDGUB.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/OOF2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/OOP1.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/OOF1.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/OUTOTIM2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/OW1.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/ONE.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/OW3.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/PARTNO.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/PARTBUY.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/OWHURT.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/OW2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/PINBALL.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/RACECPLT.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/PRATWHIR.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/REPAIR2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/RANKUP.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/POWERUP.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/PUPXPLOD.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/RGIBBS.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/RSCARE1.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/RGIBBED.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/RSHK.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/ROLLOVER.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/RSCARE2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SCREAM1.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SCARED3.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/RXPLODE.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SCREAM2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/RXPLODE2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SCARED2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SCRUB1.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SCREAM6.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SCREAM5.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SCRUB2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SIREN.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SCREAM7.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SMASH2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SKID2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SKID3.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SKID1.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SMASH3.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SMASH1.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SONICB.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SMASH4.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SORRY2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SORRY5.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SOUND.TXT",
+    "https://playobsidian.com/carma/DATA/SOUND/SMCRASH2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SWINGIN.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SQUEEKDI.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SPLAT2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SWINGOUT.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/SPLATGIB.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/THECLAP.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/TWO.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/URGH.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/UUH.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/UUUGH3.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/THREE.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/UUUGH1.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/WAAAA2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/WOAAAO.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/WAA.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/WEEAAAAO.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/WAAAA1.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/VSCARED.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/WOOAH!.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/WOOO.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/YEAH2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/WRONGCP.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/YEAH4.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/WOOHOO1.WAV",
+    "https://playobsidian.com/carma/KEYS.TXT",
+    "https://playobsidian.com/carma/DATA/TEXT.TXT",
+    "https://playobsidian.com/carma/SCREAM2.WAV",
+    "https://playobsidian.com/carma/DATA/SOUND/ZAP.WAV",
+    "https://playobsidian.com/carma/DATA/SPECVOL.TXT",
+    "https://playobsidian.com/cdn/assets/html/dc1dbce2-b901-40a0-80c9-56fad8b40d6d/1/.ogg",
+    "https://playobsidian.com/cdn/assets/html/dc1dbce2-b901-40a0-80c9-56fad8b40d6d/1/.wav",
+    "https://playobsidian.com/cdn/assets/html/dc1dbce2-b901-40a0-80c9-56fad8b40d6d/1/.mp3"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/CARS/ANNBLAK.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/CARS/ANNBLAK.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/CREDITS.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/CREDITS.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/CARS/ANNRED.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/CARS/ANNRED.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/CARS/ANNWHT.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/CARS/ANNWHT.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/CARS/ANNBLUE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/CARS/ANNBLUE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/CARS/BLKEAGLE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/CARS/BLKEAGLE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/CARS/ANNGREE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/CARS/ANNGREE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/dc1dbce2-b901-40a0-80c9-56fad8b40d6d/1/datafile_carmaweb.data",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/dc1dbce2-b901-40a0-80c9-56fad8b40d6d/1/datafile_carmaweb.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/CARS/ANNIECAR.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/CARS/ANNIECAR.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/ABUSE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/ABUSE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/CARS/EAGBLAK.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/CARS/EAGBLAK.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/CARS/DUMP.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/CARS/DUMP.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/CARS/EAGBLUE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/CARS/EAGBLUE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/CARS/BIGAPC.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/CARS/BIGAPC.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/CARS/EAGGREE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/CARS/EAGGREE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/CARS/IVAN.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/CARS/IVAN.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/CARS/EAGWHIE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/CARS/EAGWHIE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/CARS/SCREWIE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/CARS/SCREWIE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/CARS/OTIS.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/CARS/OTIS.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/CARS/PITBULL.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/CARS/PITBULL.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/CARS/BUSTER.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/CARS/BUSTER.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/FONTS/BLUEHEAD.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/FONTS/BLUEHEAD.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/FONTS/FONT7.FNT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/FONTS/FONT7.FNT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/FONTS/GREENHED.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/FONTS/GREENHED.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/FONTS/GRNDK.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/FONTS/GRNDK.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/FONTS/GRNLIT.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/FONTS/GRNLIT.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/FONTS/BIGFONT.FNT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/FONTS/BIGFONT.FNT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/FONTS/GRYLIT.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/FONTS/GRYLIT.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/CARS/EAGYELE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/CARS/EAGYELE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/CARS/TASSLE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/CARS/TASSLE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/FONTS/MEDIUMHD.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/FONTS/MEDIUMHD.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/FONTS/HEADUP.FNT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/FONTS/HEADUP.FNT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/FONTS/NEWBIGGR.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/FONTS/NEWBIGGR.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/FONTS/NEWBLUE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/FONTS/NEWBLUE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/FONTS/NEWGREEN.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/FONTS/NEWGREEN.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/CARS/VLAD.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/CARS/VLAD.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/FONTS/ORANGHED.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/FONTS/ORANGHED.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/FONTS/TIMER.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/FONTS/TIMER.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/FONTS/TYPEABLE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/FONTS/TYPEABLE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/PRATCAM/ANNIE/DEBUG.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/PRATCAM/ANNIE/DEBUG.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/FONTS/GRYDK.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/FONTS/GRYDK.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/HEADUP.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/HEADUP.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/FONTS/NEWHITE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/FONTS/NEWHITE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/FONTS/NEWRED.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/FONTS/NEWRED.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/PRATCAM/ANNIE/PRATCAM.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/PRATCAM/ANNIE/PRATCAM.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/32X20X8/PRATCAM/FRANK/PRATCAM.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/32X20X8/PRATCAM/FRANK/PRATCAM.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/CARS/ANNBLUE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/CARS/ANNBLUE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/CARS/ANNIECAR.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/CARS/ANNIECAR.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/CARS/ANNBLAK.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/CARS/ANNBLAK.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/CARS/BLKEAGLE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/CARS/BLKEAGLE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/CARS/BIGAPC.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/CARS/BIGAPC.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/CARS/BUSTER.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/CARS/BUSTER.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/CARS/ANNWHT.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/CARS/ANNWHT.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/CARS/EAGGREE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/CARS/EAGGREE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/CARS/EAGBLUE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/CARS/EAGBLUE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/CARS/EAGBLAK.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/CARS/EAGBLAK.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/CARS/EAGWHIE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/CARS/EAGWHIE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/CARS/IVAN.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/CARS/IVAN.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/CARS/EAGYELE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/CARS/EAGYELE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/CARS/ANNGREE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/CARS/ANNGREE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/CARS/OTIS.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/CARS/OTIS.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/CARS/SCREWIE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/CARS/SCREWIE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/CARS/ANNRED.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/CARS/ANNRED.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/CARS/DUMP.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/CARS/DUMP.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/CARS/TASSLE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/CARS/TASSLE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/FONTS/BIGFONT.FNT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/FONTS/BIGFONT.FNT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/FONTS/BLUEHEAD.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/FONTS/BLUEHEAD.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/CARS/VLAD.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/CARS/VLAD.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/FONTS/GRNLIT.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/FONTS/GRNLIT.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/FONTS/GRYDK.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/FONTS/GRYDK.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/FONTS/GRNDK.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/FONTS/GRNDK.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/FONTS/HEADUP.FNT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/FONTS/HEADUP.FNT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/FONTS/MEDIUMHD.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/FONTS/MEDIUMHD.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/FONTS/NEWBIGGR.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/FONTS/NEWBIGGR.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/FONTS/NEWBLUE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/FONTS/NEWBLUE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/CARS/PITBULL.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/CARS/PITBULL.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/FONTS/NEWGREEN.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/FONTS/NEWGREEN.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/FONTS/NEWHITE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/FONTS/NEWHITE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/FONTS/FONT7.FNT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/FONTS/FONT7.FNT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/FONTS/GRYLIT.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/FONTS/GRYLIT.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/FONTS/TIMER.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/FONTS/TIMER.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/FONTS/NEWRED.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/FONTS/NEWRED.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/FONTS/ORANGHED.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/FONTS/ORANGHED.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/FONTS/TYPEABLE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/FONTS/TYPEABLE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/PRATCAM/ANNIE/DEBUG.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/PRATCAM/ANNIE/DEBUG.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/PRATCAM/FRANK/PRATCAM.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/PRATCAM/FRANK/PRATCAM.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/ACCESSRY.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/ACCESSRY.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/HEADUP.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/HEADUP.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/ANIM/STELLA.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/ANIM/STELLA.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/ANIM/DEBUG.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/ANIM/DEBUG.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/AGENTO.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/AGENTO.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/BORING.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/BORING.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/ANNBLAK.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/ANNBLAK.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/ANNGREE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/ANNGREE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/ANNBLUE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/ANNBLUE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/ANNIECAR.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/ANNIECAR.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/FONTS/GREENHED.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/FONTS/GREENHED.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/BIGAPC.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/BIGAPC.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/ANNWHT.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/ANNWHT.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/ANNRED.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/ANNRED.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/BLKEAGLE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/BLKEAGLE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/APC.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/APC.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/BRATT.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/BRATT.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/EAGBLUE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/EAGBLUE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/EAGBLAK.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/EAGBLAK.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/DUMP.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/DUMP.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/EAGWHIE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/EAGWHIE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/EAGGREE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/EAGGREE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/EAGYELE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/EAGYELE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/EATER.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/EATER.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/64X48X8/PRATCAM/ANNIE/PRATCAM.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/64X48X8/PRATCAM/ANNIE/PRATCAM.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/FIRE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/FIRE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/HAMMER.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/HAMMER.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/GRIMM.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/GRIMM.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/ED.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/ED.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/IVAN.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/IVAN.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/KUTTER.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/KUTTER.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/HARRY.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/HARRY.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/MERC.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/MERC.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/OK.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/OK.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/OTIS.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/OTIS.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/PITBULL.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/PITBULL.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/BUSTER.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/BUSTER.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/STELLA.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/STELLA.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/SCREWIE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/SCREWIE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/SHIRLEY.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/SHIRLEY.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/STIG.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/STIG.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/VALHELLA.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/VALHELLA.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/TASSLE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/TASSLE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/TARTLET.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/TARTLET.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/FAUST.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/FAUST.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/VLAD.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/VLAD.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/DARES.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/DARES.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/ZGRIMM.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/ZGRIMM.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/DEMOFILE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/DEMOFILE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/DKEYMAP1.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/DKEYMAP1.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/DKEYMAP0.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/DKEYMAP0.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/DKEYMAP3.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/DKEYMAP3.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/DPOWERUP.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/DPOWERUP.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/KEYMAP_0.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/KEYMAP_0.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/GENERAL.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/GENERAL.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/KEYMAP_1.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/KEYMAP_1.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/KEYMAP_3.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/KEYMAP_3.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/KEYNAMES.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/KEYNAMES.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/KEYMAP_2.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/KEYMAP_2.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/CARS/RAZOR.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/CARS/RAZOR.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/NETRACES.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/NETRACES.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/NETDEFLT.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/NETDEFLT.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/NONCARS/BENCH.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/NONCARS/BENCH.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/NONCARS/BARRIER.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/NONCARS/BARRIER.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/NONCARS/CONE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/NONCARS/CONE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/NONCARS/FTREE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/NONCARS/FTREE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/NONCARS/GREENCAR.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/NONCARS/GREENCAR.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/NONCARS/ICART.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/NONCARS/ICART.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/NONCARS/PALM1.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/NONCARS/PALM1.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/NONCARS/LITE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/NONCARS/LITE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/NONCARS/PHONE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/NONCARS/PHONE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/NONCARS/PEDCROSS.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/NONCARS/PEDCROSS.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/NONCARS/PALM2.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/NONCARS/PALM2.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/KEYMAP.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/KEYMAP.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/DKEYMAP2.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/DKEYMAP2.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/NONCARS/TRAFF.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/NONCARS/TRAFF.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/NONCARS/STREE1.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/NONCARS/STREE1.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/NONCARS/STREE2.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/NONCARS/STREE2.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/NONCARS/GASPUMP.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/NONCARS/GASPUMP.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/PARTSHOP.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/PARTSHOP.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/NONCARS/WTOWER.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/NONCARS/WTOWER.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/NONCARS/TREE.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/NONCARS/TREE.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/OPTIONS.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/OPTIONS.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/NONCARS/WRECK.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/NONCARS/WRECK.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/PEDESTRN.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/PEDESTRN.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/PEDPATHS.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/PEDPATHS.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/PEDRACES.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/PEDRACES.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/PEDSUBS.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/PEDSUBS.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/PATHS.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/PATHS.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/POWERUP.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/POWERUP.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/RACES/CITYA1.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/RACES/CITYA1.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/RACES/CITYA3.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/RACES/CITYA3.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/RACES.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/RACES.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/RACES/CITYA2.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/RACES/CITYA2.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/RACES/CITYC1.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/RACES/CITYC1.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/RACES/CITYB2.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/RACES/CITYB2.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/RACES/CITYC2.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/RACES/CITYC2.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/RACES/CITYB1.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/RACES/CITYB1.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/RACES/CITYB3.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/RACES/CITYB3.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/RACES/COASTA1.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/RACES/COASTA1.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/RACES/COASTA3.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/RACES/COASTA3.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/RACES/COASTB1.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/RACES/COASTB1.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/RACES/CITYC3.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/RACES/CITYC3.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/RACES/COASTA2.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/RACES/COASTA2.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/RACES/COASTB2.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/RACES/COASTB2.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/RACES/COASTC1.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/RACES/COASTC1.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/RACES/COASTC2.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/RACES/COASTC2.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/RACES/COASTC.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/RACES/COASTC.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/RACES/COASTB3.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/RACES/COASTB3.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/RACES/COLICIUM.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/RACES/COLICIUM.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/OPPONENT.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/OPPONENT.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/RACES/COASTC3.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/RACES/COASTC3.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/RACES/DEZRACE2.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/RACES/DEZRACE2.TXT",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/carma/DATA/RACES/DEZRACE1.TXT",
+      "error": "HTTP 404 for https://playobsidian.com/carma/DATA/RACES/DEZRACE1.TXT",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:08:41.520Z",
+  "verifiedAt": "2026-11-16T14:10:46.923Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Carmageddon",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.5414,
+    "rendered": true
+  }
+}

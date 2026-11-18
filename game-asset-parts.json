@@ -1,0 +1,118 @@
+{
+  "mirror/kinito-pet/index.pck.part-30268-1794912667741": {
+    "size": 174509413,
+    "parts": [
+      {
+        "path": "mirror/kinito-pet/index.pck.part-30268-1794912667741.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/kinito-pet/index.pck.part-30268-1794912667741.part002",
+        "size": 84509413
+      }
+    ]
+  },
+  "mirror/tax-heaven-3000/game.zip": {
+    "size": 154150207,
+    "parts": [
+      {
+        "path": "mirror/tax-heaven-3000/game.zip.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/tax-heaven-3000/game.zip.part002",
+        "size": 64150207
+      }
+    ]
+  },
+  "mirror/quake-ii/index.data": {
+    "size": 197826411,
+    "parts": [
+      {
+        "path": "mirror/quake-ii/index.data.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/quake-ii/index.data.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/quake-ii/index.data.part003",
+        "size": 17826411
+      }
+    ]
+  },
+  "mirror/carmageddon/carmaweb.data": {
+    "size": 198408015,
+    "parts": [
+      {
+        "path": "mirror/carmageddon/carmaweb.data.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/carmageddon/carmaweb.data.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/carmageddon/carmaweb.data.part003",
+        "size": 18408015
+      }
+    ]
+  },
+  "mirror/portal/chunks/background1.data.part1": {
+    "size": 104752742,
+    "parts": [
+      {
+        "path": "mirror/portal/chunks/background1.data.part1.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/portal/chunks/background1.data.part1.part002",
+        "size": 14752742
+      }
+    ]
+  },
+  "mirror/mindustry/mindustry.html": {
+    "size": 118067440,
+    "parts": [
+      {
+        "path": "mirror/mindustry/mindustry.html.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/mindustry/mindustry.html.part002",
+        "size": 28067440
+      }
+    ]
+  },
+  "mirror/mindustry/mindustry.html.tmp": {
+    "size": 118067490,
+    "parts": [
+      {
+        "path": "mirror/mindustry/mindustry.html.tmp.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/mindustry/mindustry.html.tmp.part002",
+        "size": 28067490
+      }
+    ]
+  },
+  "mirror/raldis-crack-house/Build/BALDI.data": {
+    "size": 207643159,
+    "parts": [
+      {
+        "path": "mirror/raldis-crack-house/Build/BALDI.data.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/raldis-crack-house/Build/BALDI.data.part002",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/raldis-crack-house/Build/BALDI.data.part003",
+        "size": 27643159
+      }
+    ]
+  }
+}

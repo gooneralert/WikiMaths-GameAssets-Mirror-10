@@ -1,0 +1,163 @@
+{
+  "slug": "baldis-basics-ultra-decompile",
+  "title": "Baldi's Basics Ultra Decompile",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/baldidecomp.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/baldidecomp.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/bbudc.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/baldidecomp.html",
+  "entryUrl": "https://truffled.lol/gamefile/baldidecomp.html",
+  "status": "done",
+  "sizeBytes": 212179302,
+  "assetCount": 26,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/HTML.data.unityweb",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/ServiceWorker.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/TemplateData/unity-webgl-logo.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/TemplateData/fullscreen-button.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/TemplateData/gamejolt-promo-logo.png",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/HTML.wasm.unityweb",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/inflate.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/messages.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/inflate.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/utils/strings.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/utils/common.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/zstream.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/crc32.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/gzheader.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/constants.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/inftrees.js",
+    "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/inffast.js"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/HTML.loader.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/HTML.loader.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/HTML.framework.js.unityweb",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/HTML.framework.js.unityweb",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/HTML.data.unityweb",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/HTML.data.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/ServiceWorker.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/ServiceWorker.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/TemplateData/unity-webgl-logo.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/TemplateData/unity-webgl-logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/TemplateData/fullscreen-button.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/TemplateData/fullscreen-button.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/TemplateData/gamejolt-promo-logo.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/TemplateData/gamejolt-promo-logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/HTML.wasm.unityweb",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/HTML.wasm.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/inflate.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/messages.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/messages.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/inflate.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/utils/strings.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/utils/strings.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/utils/common.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/utils/common.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/zstream.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/zstream.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/crc32.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/crc32.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/gzheader.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/gzheader.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/constants.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/constants.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/inftrees.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/inftrees.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/adler32.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/adler32.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/inffast.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@104c364f36401fd94165923f6b5a76c113e3540e/baldi%20decomp/Build/zlib/inffast.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-30T14:41:06.796Z",
+  "verifiedAt": "2026-11-17T06:23:40.244Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Baldi's Basics The Ultra Decompile",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0486,
+    "rendered": true
+  }
+}
