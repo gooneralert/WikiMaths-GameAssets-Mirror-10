@@ -1,0 +1,58 @@
+{
+  "slug": "rounds",
+  "title": "ROUNDS",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/rounds/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/rounds/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/rounds.webp",
+  "baseUrl": "https://truffled.lol/games/rounds/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/rounds/index.html",
+  "status": "done",
+  "sizeBytes": 222000364,
+  "assetCount": 26,
+  "known404": [
+    "https://truffled.lol/games/rounds/WebBuild.wasm",
+    "https://truffled.lol/games/rounds/WebBuild.data"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/rounds/WebBuild.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/rounds/WebBuild.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/rounds/WebBuild.data",
+      "error": "HTTP 404 for https://truffled.lol/games/rounds/WebBuild.data",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T20:22:49.758Z",
+  "verifiedAt": "2026-11-17T20:22:59.921Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "ROUNDS",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 300,
+      "height": 150
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "survivor-io",
+  "title": "Survivor.io",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/survivor.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/survivor.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/survivorio.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/survivor.html",
+  "entryUrl": "https://truffled.lol/gamefile/survivor.html",
+  "status": "done",
+  "sizeBytes": 186266331,
+  "assetCount": 23,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/survivor@main/46b4b31a113ea8dea963ad56252333b5.data.br",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/survivor@main/46b4b31a113ea8dea963ad56252333b5.data.br",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/survivor@main/85546b86fc5c6deaf6ce95da9fa3aadd.wasm.br",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/survivor@main/85546b86fc5c6deaf6ce95da9fa3aadd.wasm.br",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/survivor@main/Build/build.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/survivor@main/Build/build.wasm",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/survivor@main/Build/.ogg",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/survivor@main/Build/.ogg",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/survivor@main/Build/.wav",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/survivor@main/Build/.wav",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/survivor@main/Build/.mp3",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/survivor@main/Build/.mp3",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-18T00:02:02.465Z",
+  "verifiedAt": "2026-11-18T00:03:09.031Z",
+  "verification": {
+    "external": 2,
+    "blocking": 0,
+    "ignoredExternal": 2,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "survivor.io",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 352,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9308,
+    "rendered": true
+  }
+}

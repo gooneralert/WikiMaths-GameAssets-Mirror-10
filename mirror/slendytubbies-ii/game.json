@@ -1,0 +1,70 @@
+{
+  "slug": "slendytubbies-ii",
+  "title": "Slendytubbies II",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/slendy/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/slendy/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/slendy.webp",
+  "baseUrl": "https://truffled.lol/games/slendy/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/slendy/index.html",
+  "status": "done",
+  "sizeBytes": 249445808,
+  "assetCount": 44,
+  "known404": [
+    "https://truffled.lol/BuilderRuilder.loader.js",
+    "https://truffled.lol/BuilderRuilder.wasm",
+    "https://truffled.lol/BuilderRuilder.framework.js",
+    "https://truffled.lol/games/slendy/Build/build.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/BuilderRuilder.loader.js",
+      "error": "HTTP 404 for https://truffled.lol/BuilderRuilder.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/BuilderRuilder.wasm",
+      "error": "HTTP 404 for https://truffled.lol/BuilderRuilder.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/BuilderRuilder.framework.js",
+      "error": "HTTP 404 for https://truffled.lol/BuilderRuilder.framework.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/slendy/Build/build.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/slendy/Build/build.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T21:42:32.747Z",
+  "verifiedAt": "2026-11-17T21:42:43.982Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Unity WebGL Player | Slendytubbies2",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.2796,
+    "rendered": true
+  }
+}

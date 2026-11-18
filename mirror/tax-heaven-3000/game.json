@@ -1,0 +1,70 @@
+{
+  "slug": "tax-heaven-3000",
+  "title": "Tax Heaven 3000",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/th3000/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/th3000/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/th3000.webp",
+  "baseUrl": "https://truffled.lol/games/th3000/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/th3000/index.html",
+  "status": "done",
+  "sizeBytes": 193130424,
+  "assetCount": 38,
+  "known404": [
+    "https://truffled.lol/game.zip",
+    "https://truffled.lol/games/th3000/savegames.zip",
+    "https://truffled.lol/games/th3000/datafile_renpy.data",
+    "https://truffled.lol/lib/python3.12/lib-dynload/empty.txt"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/game.zip",
+      "error": "HTTP 404 for https://truffled.lol/game.zip",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/th3000/savegames.zip",
+      "error": "HTTP 404 for https://truffled.lol/games/th3000/savegames.zip",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/th3000/datafile_renpy.data",
+      "error": "HTTP 404 for https://truffled.lol/games/th3000/datafile_renpy.data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/lib/python3.12/lib-dynload/empty.txt",
+      "error": "HTTP 404 for https://truffled.lol/lib/python3.12/lib-dynload/empty.txt",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T00:15:13.783Z",
+  "verifiedAt": "2026-11-18T00:15:24.101Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Tax Heaven 3000",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.8777,
+    "rendered": true
+  }
+}

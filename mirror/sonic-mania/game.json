@@ -1,0 +1,88 @@
+{
+  "slug": "sonic-mania",
+  "title": "Sonic Mania",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/sonic.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/sonic.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/mania.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/sonic.html",
+  "entryUrl": "https://truffled.lol/gamefile/sonic.html",
+  "status": "done",
+  "sizeBytes": 229583072,
+  "assetCount": 29,
+  "known404": [
+    "https://truffled.lol/SaveData.bin",
+    "https://truffled.lol/saves/SaveData.bin",
+    "https://cdn.jsdelivr.net/gh/UGBONTOP/Sonic-Mania-InYourBrowser@main/Data.data",
+    "https://cdn.jsdelivr.net/gh/UGBONTOP/Sonic-Mania-InYourBrowser@refs/heads/main/.ogg",
+    "https://cdn.jsdelivr.net/gh/UGBONTOP/Sonic-Mania-InYourBrowser@main/datafile_Data.data",
+    "https://cdn.jsdelivr.net/gh/UGBONTOP/Sonic-Mania-InYourBrowser@refs/heads/main/.mp3",
+    "https://cdn.jsdelivr.net/gh/UGBONTOP/Sonic-Mania-InYourBrowser@refs/heads/main/.wav"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/SaveData.bin",
+      "error": "HTTP 404 for https://truffled.lol/SaveData.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/saves/SaveData.bin",
+      "error": "HTTP 404 for https://truffled.lol/saves/SaveData.bin",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/UGBONTOP/Sonic-Mania-InYourBrowser@main/Data.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/UGBONTOP/Sonic-Mania-InYourBrowser@main/Data.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/UGBONTOP/Sonic-Mania-InYourBrowser@refs/heads/main/.ogg",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/UGBONTOP/Sonic-Mania-InYourBrowser@refs/heads/main/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/UGBONTOP/Sonic-Mania-InYourBrowser@main/datafile_Data.data",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/UGBONTOP/Sonic-Mania-InYourBrowser@main/datafile_Data.data",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/UGBONTOP/Sonic-Mania-InYourBrowser@refs/heads/main/.mp3",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/UGBONTOP/Sonic-Mania-InYourBrowser@refs/heads/main/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/UGBONTOP/Sonic-Mania-InYourBrowser@refs/heads/main/.wav",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/UGBONTOP/Sonic-Mania-InYourBrowser@refs/heads/main/.wav",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T22:35:45.600Z",
+  "verifiedAt": "2026-11-17T22:35:57.879Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Sonic Mania",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 424,
+      "height": 240
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0104,
+    "rendered": true
+  }
+}
