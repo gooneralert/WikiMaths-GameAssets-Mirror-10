@@ -1,0 +1,97 @@
+{
+  "slug": "five-nights-at-candys-2",
+  "title": "Five Nights At Candys 2",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/fnac2.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/fnac2.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/fnac2.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/fnac2.html",
+  "entryUrl": "https://truffled.lol/gamefile/fnac2.html",
+  "status": "done",
+  "sizeBytes": 248975832,
+  "assetCount": 18,
+  "known404": [
+    "https://cdn.jsdelivr.net/gh/web-ports/fnac/2/favicon.ico",
+    "https://cdn.jsdelivr.net/gh/web-ports/fnac/2/fire2U.png",
+    "https://cdn.jsdelivr.net/gh/web-ports/fnac/2/joyback.png",
+    "https://cdn.jsdelivr.net/gh/web-ports/fnac/2/Preloader.png",
+    "https://cdn.jsdelivr.net/gh/web-ports/fnac/2/fire1D.png",
+    "https://cdn.jsdelivr.net/gh/web-ports/fnac/2/fire2D.png"
+  ],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/fnac/2/favicon.ico",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/fnac/2/favicon.ico",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/fnac/2/fire2U.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/fnac/2/fire2U.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/fnac/2/resources.zip",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/web-ports/fnac/2/resources.zip",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/fnac/2/joyfront.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/web-ports/fnac/2/joyfront.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/fnac/2/joyback.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/fnac/2/joyback.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/fnac/2/fire1U.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/web-ports/fnac/2/fire1U.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/fnac/2/Preloader.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/fnac/2/Preloader.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/fnac/2/fire1D.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/fnac/2/fire1D.png",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/fnac/2/fire2D.png",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/web-ports/fnac/2/fire2D.png",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:08:44.690Z",
+  "verifiedAt": "2026-11-17T10:08:59.936Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Five Nights at Candy's 2",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 833,
+      "height": 625
+    },
+    "nonBlack": 1348,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}

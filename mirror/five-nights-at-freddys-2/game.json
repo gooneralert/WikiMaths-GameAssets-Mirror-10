@@ -1,0 +1,152 @@
+{
+  "slug": "five-nights-at-freddys-2",
+  "title": "Five Nights at Freddy's 2",
+  "type": "HTML",
+  "developer": "Scott Cawthon",
+  "description": "Welcome back to the new and improved Freddy Fazbear's Pizza! As always, Fazbear Entertainment is not responsible for death or dismemberment.",
+  "tags": [
+    "Horror",
+    "Point & Click",
+    "Indie",
+    "Strategy",
+    "Survival"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "331a133a-7268-48c0-98ec-48cd6c4e56fc",
+  "sourceVersion": "1.0",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/index.html",
+  "status": "done",
+  "sizeBytes": 188703890,
+  "assetCount": 60,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/resources.zip",
+    "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/resources.zip",
+    "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joyupd.png",
+    "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joyback.png",
+    "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joyup.png",
+    "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joydown.png",
+    "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joyfront.png",
+    "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/Preloader.png",
+    "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joyleft.png",
+    "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joyrightd.png",
+    "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joyleftd.png",
+    "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joyright.png",
+    "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joydownd.png",
+    "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/fire1U.png",
+    "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/fire2U.png",
+    "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/fire1D.png",
+    "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/fire2D.png"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/resources.zip",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/resources.zip",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/resources.zip",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/resources.zip",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joyupd.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joyupd.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joyback.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joyback.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joyup.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joyup.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joydown.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joydown.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joyfront.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joyfront.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/Preloader.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/Preloader.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joyleft.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joyleft.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joyrightd.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joyrightd.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joyleftd.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joyleftd.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joyright.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joyright.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joydownd.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/joydownd.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/fire1U.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/fire1U.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/fire2U.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/fire2U.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/fire1D.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/fire1D.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/fire2D.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/331a133a-7268-48c0-98ec-48cd6c4e56fc/1.0/src/fire2D.png",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:21:19.761Z",
+  "verifiedAt": "2026-11-16T15:31:41.342Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Five Nights at Freddy's 2",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 856,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}

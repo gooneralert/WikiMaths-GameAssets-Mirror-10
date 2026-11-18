@@ -1,0 +1,70 @@
+{
+  "slug": "cluster-truck",
+  "title": "Cluster Truck",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/clustertruck/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/clustertruck/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/cluster.webp",
+  "baseUrl": "https://truffled.lol/games/clustertruck/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/clustertruck/index.html",
+  "status": "done",
+  "sizeBytes": 188266302,
+  "assetCount": 23,
+  "known404": [
+    "https://truffled.lol/ClusterTruckWEB.loader.js",
+    "https://truffled.lol/ClusterTruckWEB.wasm",
+    "https://truffled.lol/ClusterTruckWEB.data",
+    "https://truffled.lol/ClusterTruckWEB.framework.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/ClusterTruckWEB.loader.js",
+      "error": "HTTP 404 for https://truffled.lol/ClusterTruckWEB.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/ClusterTruckWEB.wasm",
+      "error": "HTTP 404 for https://truffled.lol/ClusterTruckWEB.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/ClusterTruckWEB.data",
+      "error": "HTTP 404 for https://truffled.lol/ClusterTruckWEB.data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/ClusterTruckWEB.framework.js",
+      "error": "HTTP 404 for https://truffled.lol/ClusterTruckWEB.framework.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-30T15:27:31.730Z",
+  "verifiedAt": "2026-11-16T14:17:40.684Z",
+  "verification": {
+    "external": 2,
+    "blocking": 0,
+    "ignoredExternal": 2,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Clustertruck",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

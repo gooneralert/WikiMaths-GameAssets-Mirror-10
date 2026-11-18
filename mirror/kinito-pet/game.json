@@ -1,0 +1,67 @@
+{
+  "slug": "kinito-pet",
+  "title": "Kinito Pet",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/kinitopet/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/kinitopet/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/kinto.webp",
+  "baseUrl": "https://truffled.lol/games/kinitopet/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/kinitopet/index.html",
+  "status": "done",
+  "sizeBytes": 169527337,
+  "assetCount": 24,
+  "known404": [
+    "https://truffled.lol/games/kinitopet/godot.audio.worklet.js",
+    "https://truffled.lol/games/kinitopet/godot.javascript.opt.threads.worker.js",
+    "https://truffled.lol/games/kinitopet/.worker.js",
+    "https://truffled.lol/games/kinitopet/.audio.worklet.js",
+    "https://truffled.lol/games/kinitopet/.side.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/kinitopet/godot.audio.worklet.js",
+      "error": "HTTP 404 for https://truffled.lol/games/kinitopet/godot.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/kinitopet/godot.javascript.opt.threads.worker.js",
+      "error": "HTTP 404 for https://truffled.lol/games/kinitopet/godot.javascript.opt.threads.worker.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/kinitopet/.worker.js",
+      "error": "HTTP 404 for https://truffled.lol/games/kinitopet/.worker.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/kinitopet/.audio.worklet.js",
+      "error": "HTTP 404 for https://truffled.lol/games/kinitopet/.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/kinitopet/.side.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/kinitopet/.side.wasm",
+      "status": 404
+    },
+    {
+      "url": "(crawl)",
+      "error": "crawl stalled; abandoned hung downloads",
+      "status": 0
+    },
+    {
+      "url": "https://truffled.lol/games/kinitopet/index.html",
+      "error": "capture: fetch failed",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T10:57:55.585Z"
+}
