@@ -1,0 +1,118 @@
+{
+  "slug": "overburden",
+  "title": "Overburden",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/overburden.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/overburden.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/overburden.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/overburden.html",
+  "entryUrl": "https://truffled.lol/gamefile/overburden.html",
+  "status": "done",
+  "sizeBytes": 193603024,
+  "assetCount": 24,
+  "known404": [
+    "https://truffled.lol/gamefile/Overburden.js",
+    "https://truffled.lol/gamefile/Overburden.pck",
+    "https://truffled.lol/gamefile/Overburden.wasm",
+    "https://truffled.lol/gamefile/Overburden.png",
+    "https://truffled.lol/Overburden.pck",
+    "https://cdn.jsdelivr.net/gh/shayderrr/stardew_decomp@d1f2b598eae70ca98a4da3f1fdccc01900b61ead/web/godot.audio.position.worklet.js",
+    "https://cdn.jsdelivr.net/gh/shayderrr/stardew_decomp@d1f2b598eae70ca98a4da3f1fdccc01900b61ead/web/.audio.worklet.js",
+    "https://cdn.jsdelivr.net/gh/shayderrr/stardew_decomp@d1f2b598eae70ca98a4da3f1fdccc01900b61ead/web/.audio.position.worklet.js",
+    "https://cdn.jsdelivr.net/gh/shayderrr/stardew_decomp@d1f2b598eae70ca98a4da3f1fdccc01900b61ead/web/.side.wasm",
+    "https://cdn.jsdelivr.net/gh/shayderrr/stardew_decomp@d1f2b598eae70ca98a4da3f1fdccc01900b61ead/web/.js",
+    "https://cdn.jsdelivr.net/gh/shayderrr/stardew_decomp@d1f2b598eae70ca98a4da3f1fdccc01900b61ead/web/.wasm",
+    "https://cdn.jsdelivr.net/gh/shayderrr/stardew_decomp@d1f2b598eae70ca98a4da3f1fdccc01900b61ead/web/godot.audio.worklet.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/gamefile/Overburden.js",
+      "error": "HTTP 404 for https://truffled.lol/gamefile/Overburden.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/gamefile/Overburden.pck",
+      "error": "HTTP 404 for https://truffled.lol/gamefile/Overburden.pck",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/gamefile/Overburden.wasm",
+      "error": "HTTP 404 for https://truffled.lol/gamefile/Overburden.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/gamefile/Overburden.png",
+      "error": "HTTP 404 for https://truffled.lol/gamefile/Overburden.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/Overburden.pck",
+      "error": "HTTP 404 for https://truffled.lol/Overburden.pck",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/shayderrr/stardew_decomp@d1f2b598eae70ca98a4da3f1fdccc01900b61ead/web/godot.audio.position.worklet.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/shayderrr/stardew_decomp@d1f2b598eae70ca98a4da3f1fdccc01900b61ead/web/godot.audio.position.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/shayderrr/stardew_decomp@d1f2b598eae70ca98a4da3f1fdccc01900b61ead/web/.audio.worklet.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/shayderrr/stardew_decomp@d1f2b598eae70ca98a4da3f1fdccc01900b61ead/web/.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/shayderrr/stardew_decomp@d1f2b598eae70ca98a4da3f1fdccc01900b61ead/web/.audio.position.worklet.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/shayderrr/stardew_decomp@d1f2b598eae70ca98a4da3f1fdccc01900b61ead/web/.audio.position.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/shayderrr/stardew_decomp@d1f2b598eae70ca98a4da3f1fdccc01900b61ead/web/.side.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/shayderrr/stardew_decomp@d1f2b598eae70ca98a4da3f1fdccc01900b61ead/web/.side.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/shayderrr/stardew_decomp@d1f2b598eae70ca98a4da3f1fdccc01900b61ead/web/.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/shayderrr/stardew_decomp@d1f2b598eae70ca98a4da3f1fdccc01900b61ead/web/.js",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/shayderrr/stardew_decomp@d1f2b598eae70ca98a4da3f1fdccc01900b61ead/web/.wasm",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/shayderrr/stardew_decomp@d1f2b598eae70ca98a4da3f1fdccc01900b61ead/web/.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/shayderrr/stardew_decomp@d1f2b598eae70ca98a4da3f1fdccc01900b61ead/web/godot.audio.worklet.js",
+      "error": "HTTP 404 for https://cdn.jsdelivr.net/gh/shayderrr/stardew_decomp@d1f2b598eae70ca98a4da3f1fdccc01900b61ead/web/godot.audio.worklet.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T15:16:20.382Z",
+  "verifiedAt": "2026-11-17T15:16:32.978Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "Overburden (DEBUG)",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.2587,
+    "rendered": true
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "mindustry",
+  "title": "Mindustry",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/mindustry.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/mindustry.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/mindustry.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/mindustry.html",
+  "entryUrl": "https://truffled.lol/gamefile/mindustry.html",
+  "status": "done",
+  "sizeBytes": 236135051,
+  "assetCount": 2,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://truffled.lol/gamefile/mindustry.html",
+      "error": "EPERM: operation not permitted, rename 'C:\\Users\\blake\\Downloads\\Obsidian\\store-offline\\games\\mindustry\\mindustry.html.tmp' -> 'C:\\Users\\blake\\Downloads\\Obsidian\\store-offline\\games\\mindustry\\mindustry.html'",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T14:01:30.681Z",
+  "verifiedAt": "2026-11-17T14:01:44.567Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Mindustry",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9993,
+    "rendered": true
+  }
+}
