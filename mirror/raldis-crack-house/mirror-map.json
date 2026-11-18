@@ -1,0 +1,13 @@
+{
+  "/games/raldi/Build/BALDI.data": "/Build/BALDI.data",
+  "/games/raldi/Build/BALDI.framework.js": "/Build/BALDI.framework.js",
+  "/games/raldi/Build/BALDI.wasm": "/Build/BALDI.wasm",
+  "/games/raldi/TemplateData/BALDI.loader.js": "/TemplateData/BALDI.loader.js",
+  "/games/raldi/index.html": "/index.html",
+  "https://api.gamejolt.com/api/game/v1_2/scores/tables?game_id=769103&format=json&signature=502f5b938e83c830c27fe3b856efb84e": "/__external__/api.gamejolt.com/api/game/v1_2/scores/tables.__qf79d7ad7",
+  "https://truffled.lol/games/raldi/Build/BALDI.data": "/Build/BALDI.data",
+  "https://truffled.lol/games/raldi/Build/BALDI.framework.js": "/Build/BALDI.framework.js",
+  "https://truffled.lol/games/raldi/Build/BALDI.wasm": "/Build/BALDI.wasm",
+  "https://truffled.lol/games/raldi/TemplateData/BALDI.loader.js": "/TemplateData/BALDI.loader.js",
+  "https://truffled.lol/games/raldi/index.html": "/index.html"
+}

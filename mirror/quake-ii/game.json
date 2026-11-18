@@ -1,0 +1,63 @@
+{
+  "slug": "quake-ii",
+  "title": "Quake II",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/quakeii/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/quakeii/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/quakeii.webp",
+  "baseUrl": "https://truffled.lol/games/quakeii/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/quakeii/index.html",
+  "status": "done",
+  "sizeBytes": 85275921,
+  "assetCount": 28,
+  "known404": [
+    "https://truffled.lol/games/quakeii/datafile_release/index.data",
+    "https://truffled.lol/games/quakeii/GOT.mem"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/quakeii/datafile_release/index.data",
+      "error": "HTTP 404 for https://truffled.lol/games/quakeii/datafile_release/index.data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/quakeii/GOT.mem",
+      "error": "HTTP 404 for https://truffled.lol/games/quakeii/GOT.mem",
+      "status": 404
+    },
+    {
+      "url": "(crawl)",
+      "error": "crawl stalled; abandoned hung downloads",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T18:51:41.797Z",
+  "verifiedAt": "2026-11-17T18:51:51.489Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "Qwasm2",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 300,
+      "height": 150
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0068,
+    "rendered": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "raldis-crack-house",
+  "title": "Raldi's Crack House",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/raldi/index.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://truffled.lol/games/raldi/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/raldi/index.html",
+  "status": "done",
+  "sizeBytes": 244827312,
+  "assetCount": 11,
+  "known404": [],
+  "failed": [],
+  "mirroredAt": "2026-11-18T07:03:15.638Z",
+  "verifiedAt": "2026-11-18T07:04:22.057Z",
+  "verification": {
+    "external": 2,
+    "blocking": 0,
+    "ignoredExternal": 2,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "BALDI",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1280,
+      "height": 713
+    },
+    "nonBlack": 4096,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}
